@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  margin: 100px;
+  padding: 150px;
+  text-align: center;
+  border-radius: 15px;
+}
+.button {
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.heading {
+  font-size: 70px;
+}
+.para{
+  font-size: 30px;
+  color:#334155 ;
+}
